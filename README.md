@@ -1,12 +1,9 @@
 ## Python - 100天从新手到大师
 
-> 作者：骆昊
+> 学习者：OKevin
 >
-> 最近有很多想学习Python的小伙伴陆陆续续加入我们的交流群，目前我们的交流群人数已经超过一万人。我们的目标是打造一个优质的Python交流社区，一方面为想学习Python的初学者扫平入门过程中的重重障碍；另一方为新入行的开发者提供问道的途径，帮助他们迅速成长为优秀的职业人；此外，有经验的开发者可以利用这个平台把自己的工作经验无偿分享或有偿提供出来，让大家都能够得到职业技能以及综合素质的全面提升。之前的公开课和线下技术交流活动因为工作的关系荒废了一段时间了，但是各位小伙伴仍然活跃在交流群并一如既往的支持我们，在此向大家表示感谢。近期开始持续更新前15天和最后10天的内容，前15天是写给初学者的，我希望把上手的难度进一步降低，例子程序更加简单清晰；最后10天是Python项目实战和面试相关的东西，我希望内容更详实和完整，尤其是第100天的面试题部分；创作不易，感谢大家的打赏支持，这些钱不会用于购买咖啡而是通过腾讯公益平台捐赠给需要帮助的人（[点击](./更新日志.md)了解捐赠情况）。感谢**北京千锋互联科技有限公司**对[公开课](https://ke.qq.com/course/406954)提供的支持。
 
-![](./res/python-qq-group.png)
-
-### Python应用领域和就业形势分析
+### Python应用领域
 
 简单的说，Python是一个“优雅”、“明确”、“简单”的编程语言。
 
@@ -33,17 +30,10 @@
 - Python爬虫工程师
 - Python聊天机器人开发 / 图像识别和视觉算法 / 深度学习工程师
 
-下图显示了主要城市Python招聘需求量及薪资待遇排行榜（截止到2018年5月）。
-
-![Python招聘需求及薪资待遇Top 10](./res/python-top-10.png)
-
-![](./res/python-bj-salary.png)
-
-![](./res/python-salary-chengdu.png)
-
-给初学者的几个建议：
+---
 
 - Make English as your working language.
+
 - Practice makes perfect.
 - All experience comes from mistakes.
 - Don't be one of the leeches.
@@ -51,9 +41,10 @@
 
 ### Day01~15 - [Python语言基础](./Day01-15)
 
-#### Day01 - [初识Python](./Day01-15/01.初识Python.md)
+- [x] #### Day01【10-23】 - [初识Python](./Day01-15/01.初识Python.md)
 
 - Python简介 - Python的历史 / Python的优缺点 / Python的应用领域
+
 - 搭建编程环境 - Windows环境 / Linux环境 / MacOS环境
 - 从终端运行Python程序 - Hello, world / print函数 / 运行程序
 - 使用IDLE - 交互式环境(REPL) / 编写多行代码 / 运行程序 / 退出IDLE
